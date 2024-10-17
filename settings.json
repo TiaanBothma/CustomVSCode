@@ -37,9 +37,9 @@
     "breadcrumbs.filePath": "on",
 
     /** ------------ Editor Settings ------------ **/
-    "editor.fontSize": 14,
-    "editor.fontWeight": 450,
-    "editor.lineHeight": 18,
+    "editor.fontSize": 13,
+    "editor.fontWeight": 400,
+    "editor.lineHeight": 21,
     "editor.lineNumbers": "on",
     "editor.folding": true,
     "editor.glyphMargin": true,
@@ -60,9 +60,11 @@
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.cursorBlinking": true,
     "editor.cursorBlinking": "expand",
-
+    
     //! CSS + JS Loader
     "vscode_custom_css.imports": [
-        "file:///C:/flutter/flutter/custom-vscode.css",
+      "file:///C:/flutter/flutter/custom-vscode.css",
     ],
+    
+    "workbench.iconTheme": "vscode-icons",
 }
